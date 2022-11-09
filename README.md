@@ -7,3 +7,7 @@
 ## Run dev
 
 - `ionic serve`
+
+## Define d.ts manually
+
+- https://stackoverflow.com/questions/42964013/adding-declarations-file-manually-typescript
