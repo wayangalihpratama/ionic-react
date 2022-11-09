@@ -11,3 +11,7 @@
 ## Define d.ts manually
 
 - https://stackoverflow.com/questions/42964013/adding-declarations-file-manually-typescript
+
+## Deployment
+
+- https://ionicframework.com/docs/deployment/play-store
